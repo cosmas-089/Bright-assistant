@@ -1,2 +1,3 @@
 # Bright-assistant
-Help me in Forex
+My personal assistant
+Access MT5
